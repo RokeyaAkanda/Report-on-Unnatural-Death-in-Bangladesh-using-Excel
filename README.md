@@ -1,1 +1,3 @@
 # Report-on-Unnatural-death-in-Bangladesh
+For my research on unnatural death in Bangladesh , the material I got March 2017 reported by Kaler Kontho. By this paper there was so many news about murder, gunshot wound, suicide, act of terrorism ,road accident, natural disaster etc so on. I collected the data from newspaper and classified in the excel data sheet. I showed date , age , how he/she died, place, thana and also gave the link of the newspaper where the news is.
+There were so many informative news in my given month. A total number of 138 people are fell victim to many unnatural death. There is also given the ages of victims . In the Dhaka city, the place where most amount of deaths occurred considering the huge amount of population in the capital.
